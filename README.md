@@ -19,7 +19,7 @@ Los elementos con identificador (id) `ImgPrincipales` tendrán una anchura de im
 Los elementos `p` deben de estar alineado al centro
     
 ### Regla 7. 
-Los elementos `span` tendrán de fuente `900` con color de texto Negro
+Los elementos `span` tendrán de fuente `900;` con color de texto Negro
     
 ### Regla 8. 
 Los elementos `a` que sean hijos directos de algún `li` tendrán un padding de izquierda `35%` y derecha `20%`
