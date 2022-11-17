@@ -1,7 +1,7 @@
 # 10 reglas CSS
 ### Regla 1. 
 
-Utilizar el selector universal `*` para cambiar el tipo de fuente del documento
+Utilizar el selector universal para cambiar el tipo de fuente del documento
 
 ### Regla 2. 
 El elemento `body` tendrá margen `2%`, cambiar el fondo a `Gris claro`
